@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.minha-div {
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+
+}
+
+@media (max-width: 750px) {
+   
+}

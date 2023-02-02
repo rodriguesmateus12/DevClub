@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin: 20px 0 30px 30px;
+}
+
+h2 {
+    margin-left: 500px;
+
+}
+
+header {
+    margin: 20px 20px 25px 150px;
+}
+
+.link {
+    margin-right: 20px;
+    background: #40E0D0;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 40px;
+    border: none;
+}
+
+.Div1 {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px 20px 25px 150px;
+}
+
+.Div2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px 25px 150px;
+}
+
+.Div3 {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px 20px 25px 150px;
+}
+
+.image01 {
+    width: 150px;
+    height: 150px;
+
+}
+
+.image02 {
+    width: 150px;
+    height: 150px;
+
+}
+
+.image03 {
+    width: 150px;
+    height: 150px;
+
+}
