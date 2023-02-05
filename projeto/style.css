@@ -8,7 +8,7 @@
 }
 
 .container {
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
 
 }
@@ -29,9 +29,9 @@
 }
 
 img {
-    position: relative;
-    top: 30%;
-    right: 130px;
+    position: absolute;
+    top: 6%;
+    right: 220px;
 }
 
 h1 {
@@ -57,7 +57,7 @@ button {
     line-height: 36px;
     text-align: center;
     color: #FFFFFF;
-    border: none;
+    border: 0;
     border-radius: 50px;
     cursor: pointer;
 }
@@ -85,7 +85,7 @@ a:hover {
     opacity: 0.4;
 }
 
-a:active {
+a:hover{
     opacity: 0.8;
 }
 
